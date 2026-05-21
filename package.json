@@ -1,7 +1,7 @@
 {
   "name": "@x1aoye/tao-tie-oc",
   "type": "module",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "private": false,
   "description": "饕餮 (TaoTie) — Context compression plugin for opencode. Proactively hints compaction and summarizes verbose sessions.",
   "main": "dist/index.js",
